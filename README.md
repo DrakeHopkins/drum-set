@@ -1,2 +1,2 @@
-# drum-set
-Simple Virtual Drum Set
+# color-memory
+A Memory Game Based on Colors
